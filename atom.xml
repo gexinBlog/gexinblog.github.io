@@ -4,7 +4,7 @@
   <title><![CDATA[Ge Xin]]></title>
   <link href="http://gexinblog.github.io/atom.xml" rel="self"/>
   <link href="http://gexinblog.github.io/"/>
-  <updated>2016-04-04T09:21:30+08:00</updated>
+  <updated>2016-04-04T09:39:18+08:00</updated>
   <id>http://gexinblog.github.io/</id>
   <author>
     <name><![CDATA[Ge Xin]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[博客测试]]></title>
+    <link href="http://gexinblog.github.io/blog/2016/04/03/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95/"/>
+    <updated>2016-04-03T00:00:00+08:00</updated>
+    <id>http://gexinblog.github.io/blog/2016/04/03/博客测试</id>
+    <content type="html"><![CDATA[<p>﻿&mdash;
+layout: post
+title: &ldquo;中文标题&rdquo;
+date: 2016-04-03 22:19:48 +0800
+comments: true</p>
+
+<h2>categories: </h2>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Blog Test2]]></title>
@@ -31,21 +46,6 @@ comments: true</p>
 <li>how 我二十</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Blog Test]]></title>
-    <link href="http://gexinblog.github.io/blog/2016/04/03/blog-test/"/>
-    <updated>2016-04-03T00:00:00+08:00</updated>
-    <id>http://gexinblog.github.io/blog/2016/04/03/blog-test</id>
-    <content type="html"><![CDATA[<p>﻿&mdash;
-layout: post
-title: &ldquo;中文标题&rdquo;
-date: 2016-04-03 22:19:48 +0800
-comments: true</p>
-
-<h2>categories: </h2>
 ]]></content>
   </entry>
   
