@@ -4,7 +4,7 @@
   <title><![CDATA[Ge Xin 博客]]></title>
   <link href="http://gexinblog.github.io/atom.xml" rel="self"/>
   <link href="http://gexinblog.github.io/"/>
-  <updated>2016-04-04T09:49:59+08:00</updated>
+  <updated>2016-04-04T09:57:10+08:00</updated>
   <id>http://gexinblog.github.io/</id>
   <author>
     <name><![CDATA[Ge Xin]]></name>
@@ -12,5 +12,46 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[我的第一篇博客]]></title>
+    <link href="http://gexinblog.github.io/blog/2016/04/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <updated>2016-04-04T00:00:00+08:00</updated>
+    <id>http://gexinblog.github.io/blog/2016/04/04/我的第一篇博客</id>
+    <content type="html"><![CDATA[<p>﻿&mdash;
+layout: post
+title: &ldquo;firstBlog&rdquo;
+date: 2016-04-04 09:53:36 +0800
+comments: true</p>
+
+<h2>categories: </h2>
+
+<h1>为什么需要Markdown？</h1>
+
+<ul>
+<li>所见即所得</li>
+<li>内容+格式可迁移</li>
+<li>专注于内容</li>
+<li><p>平台支持</p></li>
+<li><p>测试</p></li>
+</ul>
+
+
+<p>Python
+code test</p>
+
+<ol>
+<li>列表项</li>
+</ol>
+
+
+<hr />
+
+<pre><code>测试内容。ok
+</code></pre>
+
+<p>天河</p>
+]]></content>
+  </entry>
   
 </feed>
