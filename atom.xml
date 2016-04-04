@@ -4,7 +4,7 @@
   <title><![CDATA[Ge Xin 博客]]></title>
   <link href="http://gexinblog.github.io/atom.xml" rel="self"/>
   <link href="http://gexinblog.github.io/"/>
-  <updated>2016-04-04T11:11:06+08:00</updated>
+  <updated>2016-04-04T11:19:24+08:00</updated>
   <id>http://gexinblog.github.io/</id>
   <author>
     <name><![CDATA[Ge Xin]]></name>
@@ -14,19 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[我的第一篇博客]]></title>
-    <link href="http://gexinblog.github.io/blog/2016/04/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <updated>2016-04-04T00:00:00+08:00</updated>
-    <id>http://gexinblog.github.io/blog/2016/04/04/我的第一篇博客</id>
-    <content type="html"><![CDATA[<p>﻿&mdash;
-layout: post
-title: &ldquo;firstBlog&rdquo;
-date: 2016-04-04 09:53:36 +0800
-comments: true</p>
-
-<h2>categories: </h2>
-
-<!-- more -->
+    <title type="html"><![CDATA[the second blog]]></title>
+    <link href="http://gexinblog.github.io/blog/2016/04/04/the-second-blog/"/>
+    <updated>2016-04-04T10:22:02+08:00</updated>
+    <id>http://gexinblog.github.io/blog/2016/04/04/the-second-blog</id>
+    <content type="html"><![CDATA[<!-- more -->
 
 
 <h1>为什么需要Markdown？</h1>
@@ -58,19 +50,11 @@ code test</p>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[The Second Blog]]></title>
-    <link href="http://gexinblog.github.io/blog/2016/04/04/the-second-blog/"/>
-    <updated>2016-04-04T00:00:00+08:00</updated>
-    <id>http://gexinblog.github.io/blog/2016/04/04/the-second-blog</id>
-    <content type="html"><![CDATA[<p>﻿&mdash;
-layout: post
-title: &ldquo;the second blog&rdquo;
-date: 2016-04-04 10:22:02 +0800
-comments: true</p>
-
-<h2>categories: </h2>
-
-<!-- more -->
+    <title type="html"><![CDATA[firstBlog]]></title>
+    <link href="http://gexinblog.github.io/blog/2016/04/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <updated>2016-04-04T09:53:36+08:00</updated>
+    <id>http://gexinblog.github.io/blog/2016/04/04/我的第一篇博客</id>
+    <content type="html"><![CDATA[<!-- more -->
 
 
 <h1>为什么需要Markdown？</h1>
