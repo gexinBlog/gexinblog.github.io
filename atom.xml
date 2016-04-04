@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Ge Xin Blog]]></title>
+  <title><![CDATA[Ge Xin]]></title>
   <link href="http://gexinblog.github.io/atom.xml" rel="self"/>
   <link href="http://gexinblog.github.io/"/>
-  <updated>2016-04-04T09:04:46+08:00</updated>
+  <updated>2016-04-04T09:16:13+08:00</updated>
   <id>http://gexinblog.github.io/</id>
   <author>
     <name><![CDATA[Ge Xin]]></name>
@@ -37,7 +37,7 @@ comments: true</p>
 
 <ul>
 <li>why 为什么</li>
-<li>how</li>
+<li>how 我二十</li>
 </ul>
 
 ]]></content>
