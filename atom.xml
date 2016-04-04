@@ -4,7 +4,7 @@
   <title><![CDATA[Ge Xin 博客]]></title>
   <link href="http://gexinblog.github.io/atom.xml" rel="self"/>
   <link href="http://gexinblog.github.io/"/>
-  <updated>2016-04-04T10:22:36+08:00</updated>
+  <updated>2016-04-04T10:26:20+08:00</updated>
   <id>http://gexinblog.github.io/</id>
   <author>
     <name><![CDATA[Ge Xin]]></name>
@@ -25,6 +25,8 @@ date: 2016-04-04 09:53:36 +0800
 comments: true</p>
 
 <h2>categories: </h2>
+
+<p>&lt;!– more –></p>
 
 <h1>为什么需要Markdown？</h1>
 
@@ -66,6 +68,8 @@ date: 2016-04-04 10:22:02 +0800
 comments: true</p>
 
 <h2>categories: </h2>
+
+<p>&lt;!– more –></p>
 
 <h1>为什么需要Markdown？</h1>
 
