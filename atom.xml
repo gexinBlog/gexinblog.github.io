@@ -4,7 +4,7 @@
   <title><![CDATA[Ge Xin 博客]]></title>
   <link href="http://gexinblog.github.io/atom.xml" rel="self"/>
   <link href="http://gexinblog.github.io/"/>
-  <updated>2016-04-04T10:17:27+08:00</updated>
+  <updated>2016-04-04T10:22:36+08:00</updated>
   <id>http://gexinblog.github.io/</id>
   <author>
     <name><![CDATA[Ge Xin]]></name>
@@ -22,6 +22,47 @@
 layout: post
 title: &ldquo;firstBlog&rdquo;
 date: 2016-04-04 09:53:36 +0800
+comments: true</p>
+
+<h2>categories: </h2>
+
+<h1>为什么需要Markdown？</h1>
+
+<ul>
+<li>所见即所得</li>
+<li>内容+格式可迁移</li>
+<li>专注于内容</li>
+<li><p>平台支持</p></li>
+<li><p>测试</p></li>
+</ul>
+
+
+<p>Python
+code test</p>
+
+<ol>
+<li>列表项</li>
+</ol>
+
+
+<hr />
+
+<pre><code>测试内容。ok
+</code></pre>
+
+<p>天河</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Second Blog]]></title>
+    <link href="http://gexinblog.github.io/blog/2016/04/04/the-second-blog/"/>
+    <updated>2016-04-04T00:00:00+08:00</updated>
+    <id>http://gexinblog.github.io/blog/2016/04/04/the-second-blog</id>
+    <content type="html"><![CDATA[<p>﻿&mdash;
+layout: post
+title: &ldquo;the second blog&rdquo;
+date: 2016-04-04 10:22:02 +0800
 comments: true</p>
 
 <h2>categories: </h2>
